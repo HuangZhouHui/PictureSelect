@@ -1,5 +1,7 @@
+
+
 .App {
-  text-align: center;
+  margin: 20px;
 }
 
 .App-logo {
@@ -30,4 +32,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.checkbox{
+  position: absolute;
+  left: 2px;
+}
+.div_check{
+  text-align: center;
+  margin: 20px 10px 0px 0px;
+  position: relative;
+  display: inline-block;
 }
